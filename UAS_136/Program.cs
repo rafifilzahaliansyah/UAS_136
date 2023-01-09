@@ -13,6 +13,7 @@ namespace UAS_136
         public string nama;
         public string kelas;
         public node Next;
+
     }
 
     class CircularLinkedList
